@@ -4,6 +4,7 @@ Completed a hands-on Zendesk experience today! Registered a company website, wor
 Zendesk Experience with Roco Private Limited
 
 I successfully registered Roco Private Limited on Zendesk as my own company where I  gained hands-on experience in managing IT support queries. I worked on a range of sample tickets, addressing various customer concerns, including:
+<br>
 -Password Reset
 - Product ethics and inquiries
 - Zendesk functionality and usage
